@@ -15,5 +15,5 @@ It was relative easy to adapt the software for thew pocket screen.<br>
 The Pocketscreen uses the RTC from the SAMD21 microcontroller for time keeping.<br>
 <br>
 Things to be done:<br>
-Get the time from and NTP server and/or make a web server page for this clock<br>
-Get my own font in the compilation<br>
+- Get the time from and NTP server and/or make a web server page for this clock<br>
+- Get my own font in the compilation.<br>
