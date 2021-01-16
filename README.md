@@ -1,9 +1,8 @@
 # Pocketscreen Word Watch
 
-Install in Arduino IDE:<br> 
-RTCZero and Time<br>
-Rename in the Time library Time.h in XTime.h to avoid compiler errors<br>
-Replace the PS_Fonts.h in the ...\Arduino\libraries\PocketScreen\ folder<br>
+- Install in Arduino IDE: RTCZero and Time libraries<br>
+- Rename in the Time library Time.h in XTime.h to avoid compiler errors<br>
+- Replace the PS_Fonts.h in the ...\Arduino\libraries\PocketScreen\ folder<br>
 I am still studying how to add my own monospaced font to the program.<br>
 The W and I were changed to become monospaced. The rest was monospaced<br>
 
