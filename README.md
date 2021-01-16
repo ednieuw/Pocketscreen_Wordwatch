@@ -7,7 +7,7 @@ Replace the PS_Fonts.h in the ...\Arduino\libraries\PocketScreen\ folder<br>
 I am still studying how to add my own monospaced font to the program.<br>
 The W and I were changed to become monospaced. The rest was monospaced<br>
 
-<img alt="Word watch" src="Wordwatch.jpg" width="900" />
+<img alt="Word watch" src="Word-watch.jpg" width="900" />
 
 This word watch software is a adaption of the word clock with white LEDs or color<br>
 RGBW LEDs that can be found in my repository.<br>
