@@ -1,6 +1,6 @@
 # Pocketscreen Word Watch
 
-The software in still in developing state but V009 is stable.
+The software in still in developing state but V009 and V012 are stable.
 To compile the source:
 - Install in Arduino IDE: RTCZero and Time libraries<br>
 - Rename in the Time library ...\Arduino\libraries\Time\ Time.h in XTime.h to avoid compiler errors<br>
@@ -16,7 +16,7 @@ It was relative easy to adapt the software for thew pocket screen.<br>
 The Pocketscreen Word watch uses the RTC from the SAMD21 microcontroller for time keeping.<br>
 With the buttons time can be changed<br>
 Things to be done:<br>
-- Get the other languages UK, DE and FR running<br>
+Done V012 - Get the other languages UK, DE and FR running<br>
 - Get several colour palette options running<br>
 - Get the time from and NTP server<br> 
 - Make a web server page for this clock<br>
