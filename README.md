@@ -1,3 +1,4 @@
+<img alt="Word watch" src="4PocketClockswide.jpg" width="900" />
 # Pocketscreen Word Watch
 
 The software in still in developing state but V009 and V012 are stable.
@@ -23,4 +24,4 @@ Done V012 - Get the other languages UK, DE and FR running<br>
 - Get my own font in the compilation<br>
 - Get the power from a Lipo battery and reduce the power need
 
-<img alt="Word watch" src="Word-watch1.jpg" width="900" />
+
